@@ -23,7 +23,7 @@ which gives me a solid understanding of the native ecosystem on both platforms.
 
 ## 📊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanolimpio&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanolimpio&layout=compact&theme=tokyonight&hide=objective-c,shell" />
 
 ## 📬 Get in Touch
 
